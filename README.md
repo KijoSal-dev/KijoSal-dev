@@ -1,5 +1,7 @@
 👋 Hi, I’m @KijoSal-dev
 
+📍 Nairobi, Kenya — Open to Remote, Hybrid, and Onsite opportunities
+
 💡 Aspiring Data Scientist & AI Engineer passionate about building real-world solutions with data and intelligent systems.
 
 🎓 I have completed AI Software Engineering from PLP, AI Starter Kit (AISK) Program from ALX, AI for Developers from ALX, and Associate Data Analyst from Datacamp.
