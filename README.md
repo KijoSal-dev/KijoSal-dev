@@ -1,4 +1,4 @@
-👋 Hi, I’m @KijoSal-dev
+👋 Hi, I’m Salome
 
 📍 Nairobi, Kenya — Open to Remote, Hybrid, and Onsite opportunities
 
