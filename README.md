@@ -4,11 +4,11 @@
 
 🎓 I have completed AI Software Engineering from PLP, AI Starter Kit (AISK) Program from ALX, AI for Developers from ALX, and Data Literacy from Datacamp.
 
-🌱 I’m currently pursuing a Data Science and Engineering Fellowship with Tech4Dev, as well as a Data and AI certification from Cyber Shujaa.
+🌱 I’m currently pursuing a Data Science and Engineering Fellowship with Tech4Dev, as well as a Data and AI fellowship from Cyber Shujaa.
 
 💞️ I’m looking to collaborate on tech projects with peers, mentors, and communities where I can learn, contribute, and grow my skills in a supportive environment.
 
-📫 Connect with me on LinkedIn. LinkedIn: https://www.linkedin.com/in/salome-k-51269993/
+📫 Connect with me on LinkedIn. LinkedIn: https://www.linkedin.com/in/salome-kungu/
 
 😄 Pronouns: She/her
 
